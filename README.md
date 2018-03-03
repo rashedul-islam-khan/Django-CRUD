@@ -1,1 +1,1 @@
-# Simple Django-CRUD project
+# Simple Django-CRUD project in CBV (Class based views)
